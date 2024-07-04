@@ -4,7 +4,8 @@
 # 👋 Hi, I'm sai kishore Chalumuri !
 
 
-![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/0124250e-db1e-4538-81e8-15eb17da8a77)
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/946c69dd-1a1c-475d-bf8f-e77f50e5268b)
+
 
  
 *Empowering Sales Teams with Data-Driven Insights and Strategic Planning*
