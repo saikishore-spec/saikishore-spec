@@ -79,6 +79,34 @@ Sure! Here is the certifications section with links for each certification:
 8. **[Sales Operations Science](https://academy.hubspot.com/courses/sales-operations)** - HubSpot Academy
 9. **[Solution Selling](https://www.linkedin.com/learning/solution-selling)** - LinkedIn Learning
 10. **[Advanced CRM Techniques](https://trailhead.salesforce.com/en/content/learn/trails/advanced_crm_techniques)** - Salesforce Trailhead
+
+
+# Sports Achievements
+
+I have consistently demonstrated excellence in various national and inter-university level competitions. Here is a summary of my accomplishments:
+
+### 2020
+- **Top 20 in All India National Level Best Physique Championship** - [https://ibb.co/kS6BftR(#)
+
+### 2019
+- **MR ANITS Power Lifting** - GOLD Medal - [https://ibb.co/SfCKr5w](#)
+- **MR ANITS Best Physique** - GOLD Medal - [https://ibb.co/qR6FWw2](#)
+- **Inter-university Powerlifting** - SILVER Medal - [Link to Achievement](#)
+- **Inter-university Best Physique** - GOLD Medal - [Link to Achievement](#)
+
+### 2018
+- **Inter-university Powerlifting** - SILVER Medal - [Link to Achievement](#)
+- **MR ANITS Weightlifting** - GOLD Medal - [Link to Achievement](#)
+- **Inter-university Powerlifting** - SILVER Medal - [Link to Achievement](#)
+- **Inter-university Best Physique** - SILVER Medal - [Link to Achievement](#)
+
+### 2017
+- **MR ANITS Best Physique** - SILVER Medal - [Link to Achievement](#)
+- **Inter-university Powerlifting** - BRONZE Medal - [Link to Achievement](#)
+- **Inter-university Best Physique** - BRONZE Medal - [Link to Achievement](#)
+
+I am proud of these achievements as they reflect my dedication, hard work, and passion for sports. Each competition has been a stepping stone in my journey towards excellence in physical fitness and strength.
+
 ```
 
 Replace the placeholder `path-to-your-image` with the actual path to your image file. This will create a visually appealing and informative certifications section for your GitHub profile README with relevant links for each certification.
