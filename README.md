@@ -1,7 +1,7 @@
-Certainly! Below is the README with fewer but impactful links to articles.
 
-```markdown
-# 👋 Hi, I'm [Your Name]!
+
+
+# 👋 Hi, I'm sai kishore Chalumuri !
 
 ![Sales Manager Banner](path-to-your-image/banner.jpg)  
 *Empowering Sales Teams with Data-Driven Insights and Strategic Planning*
@@ -13,10 +13,9 @@ Certainly! Below is the README with fewer but impactful links to articles.
 I am a results-driven Sales Manager with over [X] years of experience in leading high-performing sales teams, developing effective sales strategies, and leveraging data analytics to drive growth. My passion lies in transforming sales processes and helping organizations achieve their revenue targets.
 
 - 🌟 **Role**: Sales Manager
-- 📍 **Location**: [Your City, Country]
-- 🎓 **Education**: [Your Degree, Your University]
-- 💼 **Current Position**: [Your Current Position, Your Company]
-- 📫 **Contact**: [your.email@example.com](mailto:your.email@example.com)
+- 📍 **Location**: kitchener canada 
+- 🎓 **Education**: [Bachelors in electronics & communications ]- 💼 **Current Position**: [sales Manager , Crunch Fitness ]
+- 📫 **Contact**: [saichalumuri1998@gmail.com (mailto:your.email@example.com)
 
 ---
 
