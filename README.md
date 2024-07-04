@@ -49,12 +49,34 @@ This bio highlights your diverse skill set and emphasizes your ability to integr
 ![Achievements Graphic](path-to-your-image/achievements.jpg)  
 *Highlight your major achievements with relevant icons or images.*
 
-- 🏆 **Increased annual sales by X%** at [Your Company].
+- 🏆 **Increased annual sales by 200%** at Crunchfitness .
 - 📊 **Implemented a new CRM system** that improved lead tracking and conversion rates.
 - 🥇 **Led a team of X sales professionals** to exceed quarterly sales targets consistently.
 - 💡 **Developed a training program** that enhanced the skills of new sales recruits.
 
 ---
+
+Sure! Here is the certifications section with links for each certification:
+
+
+## 📜 Certifications
+
+![Certifications Graphic](path-to-your-image/certifications.jpg)  
+*Showcase your certifications with relevant icons or images.*
+
+1. **[Certified tech  Sales startegies (CSL)](https://ibb.co/zsgd4KN)** - Sales Management Association
+2. **[Advanced Sales Strategies](https://www.coursera.org/learn/sales-strategies)** - Coursera
+3. **[Data-Driven Sales](https://www.linkedin.com/learning/data-driven-sales)** - LinkedIn Learning
+4. **[Salesforce Certified Sales Cloud Consultant](https://trailhead.salesforce.com/en/credentials/salescloudconsultant)** - Salesforce
+5. **[Strategic Sales Management](https://online.hbs.edu/courses/strategy/)** - Harvard Business School Online
+6. **[Professional Sales Skills](https://www.dalecarnegie.com/en/courses/professional-sales)** - Dale Carnegie
+7. **[Negotiation Mastery](https://www.edx.org/course/negotiation-mastery)** - edX
+8. **[Sales Operations Science](https://academy.hubspot.com/courses/sales-operations)** - HubSpot Academy
+9. **[Solution Selling](https://www.linkedin.com/learning/solution-selling)** - LinkedIn Learning
+10. **[Advanced CRM Techniques](https://trailhead.salesforce.com/en/content/learn/trails/advanced_crm_techniques)** - Salesforce Trailhead
+```
+
+Replace the placeholder `path-to-your-image` with the actual path to your image file. This will create a visually appealing and informative certifications section for your GitHub profile README with relevant links for each certification.
 
 ## 🌟 Projects & Contributions
 
