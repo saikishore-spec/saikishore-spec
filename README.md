@@ -95,10 +95,16 @@ certificate
 - **MR ANITS Power Lifting** - GOLD Medal - certificate 
 - **MR ANITS Best Physique** - GOLD Medal - certificate 
 - **Inter-university Powerlifting** - SILVER Medal - certificate 
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/b1409838-2db2-4cbd-9c86-58ab564943ff)
+
 - **Inter-university Best Physique** - GOLD Medal - certificate 
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/c56f3563-02b7-46dc-960d-489f9ad7e5fb)
+
+
 
 ### 2018
-- **Inter-university Powerlifting** - SILVER Medal - 
+- **Inter-university Powerlifting** - SILVER Medal - ![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/2bf783f6-5f8a-4123-86f8-f46f2d7dfc07)
+
 - **MR ANITS Weightlifting** - GOLD Medal - 
 - **Inter-university Powerlifting** - SILVER Medal - certficate ![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/61346614-7a45-4773-9981-fee0ff7f7c9a)
 
@@ -106,6 +112,8 @@ certificate
 
 
 ### 2017
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/5906a142-6806-4d15-accd-8c05d1007634)
+
 - **MR ANITS Best Physique** - SILVER Medal - 
 - **Inter-university Powerlifting** - BRONZE Medal - 
 - **Inter-university Best Physique** - BRONZE Medal - 
