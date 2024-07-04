@@ -10,10 +10,20 @@
 
 ## 👨‍💼 About Me
 
-I am a results-driven Sales Manager with over [X] years of experience in leading high-performing sales teams, developing effective sales strategies, and leveraging data analytics to drive growth. My passion lies in transforming sales processes and helping organizations achieve their revenue targets.
+Absolutely! Here's a refined and compelling bio for your profile:
+
+---
+
+I am a results-driven Sales Manager with over 4 years of experience leading high-performing sales teams, developing effective sales strategies, and leveraging data analytics to drive growth. Additionally, I have over 2 years of experience as a Software Engineer, where I gained a deep understanding of the critical role data plays in transforming a product from zero to hero.
+
+My unique blend of technical expertise and sales acumen allows me to bridge the gap between product development and market success. I excel at transforming sales processes, optimizing team performance, and helping organizations achieve their revenue targets. My passion lies in harnessing the power of data to drive strategic decisions and deliver exceptional business outcomes.
+
+---
+
+This bio highlights your diverse skill set and emphasizes your ability to integrate technical and sales expertise to drive success at a high managerial level.
 
 - 🌟 **Role**: Sales Manager
-- 📍 **Location**: kitchener canada 
+- 📍 **Location**: kitchener canada Ontario 
 - 🎓 **Education**: [Bachelors in electronics & communications ]- 💼 **Current Position**: [sales Manager , Crunch Fitness ]
 - 📫 **Contact**: [saichalumuri1998@gmail.com (mailto:your.email@example.com)
 
