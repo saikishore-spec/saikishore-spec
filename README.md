@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm sai kishore Chalumuri !
 
-![Sales Manager Banner](https://lucid.app/lucidchart/5ae122df-ba54-4bb4-a061-5045a9361eac/edit?viewport_loc=-11%2C-53%2C3286%2C1812%2C0_0&invitationId=inv_77f1c74f-2d78-4130-b561-7b13fac47c42) 
+
 ![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/038ef65d-857e-4793-9275-d0cf305a8a47)
  
 *Empowering Sales Teams with Data-Driven Insights and Strategic Planning*
