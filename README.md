@@ -28,7 +28,8 @@ This bio highlights your diverse skill set and emphasizes your ability to integr
 
 - 🌟 **Role**: Sales Manager
 - 📍 **Location**: kitchener canada Ontario 
-- 🎓 **Education**: [Bachelors in electronics & communications ]- 💼 **Current Position**: [sales Manager , Crunch Fitness ]
+- 🎓 **Education**: [Bachelors in electronics & communications 
+  masters in software prinicples & Embedded systems ]- 💼 **Current Position**: [sales Manager , Crunch Fitness ]
 - 📫 **Contact**: [saichalumuri1998@gmail.com (mailto:your.email@example.com)
 
 ---
