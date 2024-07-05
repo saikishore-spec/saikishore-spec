@@ -84,7 +84,7 @@ Sure! Here is the certifications section with links for each certification:
 2. **[Advanced Sales Strategies](https://ibb.co/RjnbyfQ)** - NASM
 3. **[Data-Driven Sales & Referals ](https://ibb.co/r3zYSjM)** - NASM
 4. **[Future fitness Industry & Sales ](https://ibb.co/BLMxVy4)** - NASM
-5. **[Strategic Sales FOR Ofline Marketing ](https://online.hbs.edu/courses/strategy/)** - NASM
+5. **[Strategic Sales FOR Ofline Marketing ](https://ibb.co/BLMxVy4/)** - NASM
 6. **[Professional Sales Skills](https://www.dalecarnegie.com/en/courses/professional-sales)** - Dale Carnegie
 7. **[Negotiation Mastery](https://www.edx.org/course/negotiation-mastery)** - edX
 8. **[Sales Operations Science](https://academy.hubspot.com/courses/sales-operations)** - HubSpot Academy
