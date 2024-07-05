@@ -70,7 +70,7 @@ Sure! Here is the certifications section with links for each certification:
 *Showcase your certifications with relevant icons or images.*
 
 1. **[Certified tech  Sales startegies (CSL)](https://ibb.co/zsgd4KN)** - Sales Management Association
-2. **[Advanced Sales Strategies](https://ibb.co/RjnbyfQ)** - Coursera
+2. **[Advanced Sales Strategies](https://ibb.co/RjnbyfQ)** - NASM
 3. **[Data-Driven Sales](https://www.linkedin.com/learning/data-driven-sales)** - LinkedIn Learning
 4. **[Salesforce Certified Sales Cloud Consultant](https://trailhead.salesforce.com/en/credentials/salescloudconsultant)** - Salesforce
 5. **[Strategic Sales Management](https://online.hbs.edu/courses/strategy/)** - Harvard Business School Online
