@@ -26,13 +26,23 @@ My unique blend of technical expertise and sales acumen allows me to bridge the 
 
 This bio highlights your diverse skill set and emphasizes your ability to integrate technical and sales expertise to drive success at a high managerial level.
 
-- 🌟 **Role**: Sales Manager
-- 📍 **Location**: kitchener canada Ontario 
-- 🎓 **Education**: [Bachelors in electronics & communications 
-  masters in software prinicples & Embedded systems ]- 💼 **Current Position**: [sales Manager , Crunch Fitness ]
-- 📫 **Contact**: [saichalumuri1998@gmail.com (mailto:your.email@example.com)
+- 🌟 **Role**: - **Sales Manager**
 
----
+- 📍 **Location**: - **Kitchener, Ontario*
+
+## Professional Bio
+- 📍 **Location**: - **Kitchener, Ontario**
+
+
+### Company
+**Crunch Canada**
+
+![Crunch Canada Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.linkedin.com%2Fcompany%2Fcrunchcanada&psig=AOvVaw03PG6Mlw1O2Usc91LUvWaT&ust=1720272074319000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjBsYX_j4cDFQAAAAAdAAAAABAD)
+
+
+### Tenure
+**2021 - Present (Permanent Full Time)**
+
 
 ## 🛠 Skills & Expertise
 
