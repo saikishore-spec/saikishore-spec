@@ -14,7 +14,6 @@
 
 ## 👨‍💼 About Me
 
-Absolutely! Here's a refined and compelling bio for your profile:
 
 ---
 
