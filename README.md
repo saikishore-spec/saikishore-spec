@@ -83,8 +83,8 @@ Sure! Here is the certifications section with links for each certification:
 1. **[Certified tech  Sales startegies (CSL)](https://ibb.co/zsgd4KN)** - Sales Management Association
 2. **[Advanced Sales Strategies](https://ibb.co/RjnbyfQ)** - NASM
 3. **[Data-Driven Sales & Referals ](https://ibb.co/r3zYSjM)** - NASM
-4. **[Salesforce Certified Sales Cloud Consultant](https://trailhead.salesforce.com/en/credentials/salescloudconsultant)** - Salesforce
-5. **[Strategic Sales Management](https://online.hbs.edu/courses/strategy/)** - Harvard Business School Online
+4. **[Future fitness Industry & Sales ](https://ibb.co/BLMxVy4)** - NASM
+5. **[Strategic Sales FOR Ofline Marketing ](https://online.hbs.edu/courses/strategy/)** - NASM
 6. **[Professional Sales Skills](https://www.dalecarnegie.com/en/courses/professional-sales)** - Dale Carnegie
 7. **[Negotiation Mastery](https://www.edx.org/course/negotiation-mastery)** - edX
 8. **[Sales Operations Science](https://academy.hubspot.com/courses/sales-operations)** - HubSpot Academy
