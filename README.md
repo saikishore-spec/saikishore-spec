@@ -76,7 +76,8 @@ Sure! Here is the certifications section with links for each certification:
 
 ## 📜 Certifications
 
-![Certifications Graphic](path-to-your-image/certifications.jpg)  
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/f48f624e-9a71-4a40-84f1-e3a1718c15a5)
+
 *Showcase your certifications with relevant icons or images.*
 
 1. **[Certified tech  Sales startegies (CSL)](https://ibb.co/zsgd4KN)** - Sales Management Association
