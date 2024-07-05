@@ -36,8 +36,8 @@ This bio highlights your diverse skill set and emphasizes your ability to integr
 
 ### Company
 **Crunch Canada**
+![image](https://github.com/saikishore-spec/saikishore-spec/assets/174729722/6abac302-da20-4d17-ace0-08153d693397)
 
-![Crunch Canada Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.linkedin.com%2Fcompany%2Fcrunchcanada&psig=AOvVaw03PG6Mlw1O2Usc91LUvWaT&ust=1720272074319000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjBsYX_j4cDFQAAAAAdAAAAABAD)
 
 
 ### Tenure
