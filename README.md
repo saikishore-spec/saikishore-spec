@@ -24,7 +24,7 @@ My unique blend of technical expertise and sales acumen allows me to bridge the 
 
 ---
 
-This bio highlights your diverse skill set and emphasizes your ability to integrate technical and sales expertise to drive success at a high managerial level.
+
 
 - 🌟 **Role**: - **Sales Manager**
 
